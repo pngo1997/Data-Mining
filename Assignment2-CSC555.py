@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo
-# #### Course Name and Number: CSC 555 Big Data Mining
-# #### Assignment 2
-# #### Date: 10/10/2023
-
 # Note: My coding logic, the first column out from mapper is 'dictionary key'.
 
 # #### Query 1
