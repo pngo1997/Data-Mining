@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo
-# #### Course Name and Number: CSC 555 Big Data Mining
-# #### Assignment 3
-# #### Date: 10/25/2023
-
 # ### Part 2
 
 # SELECT lo_quantity, MAX(lo_revenue) \
